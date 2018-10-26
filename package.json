@@ -1,0 +1,15 @@
+{
+  "name": "fire",
+  "description": "fire",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "engines": {
+    "node": "8.4.0"
+  }
+}
